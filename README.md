@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Payslice](app.payslices.com)
 
-- 🌱 I’m currently learning **NodeJs, Typescript and expresswebjs**
+- 🌱 I’m currently learning **Typescript and AdonisJs**
 
 - 💬 Ask me about **Prioritization, AWS Cloud, Laravel and Design Principles**
 
