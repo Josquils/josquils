@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agboro Joseph</h1>
 <h3 align="center">I am passionate ❤️‍🔥 about anything centered around productivity ⌚ and security 🛡️ especially for the web/cloud 🧑🏻‍💻.</h3>
 
-- 🔭 I’m currently working on [Payslice](app.payslices.com)
+- 🔭 I’m currently working on [Payslice](https://payslicehq.com)
 
 - 🌱 I’m currently learning **Typescript and AdonisJs**
 
